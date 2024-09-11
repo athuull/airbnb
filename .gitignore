@@ -66,4 +66,8 @@ yarn-debug.log*
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
+<<<<<<< HEAD
 /public/uploads
+=======
+/public/uploads
+>>>>>>> 9742aa26b0a145b75454ad7939c4b35614185660
